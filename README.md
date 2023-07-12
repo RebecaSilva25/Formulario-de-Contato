@@ -3,8 +3,8 @@ Formulario de contato para Landing Pages
 
 -Tecnologias Usadas:
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JavaScript
+- JavaScript
